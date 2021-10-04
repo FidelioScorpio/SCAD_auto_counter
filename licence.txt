@@ -1,0 +1,7 @@
+This project is licenced under Creative Commons - Public Domain Dedication.
+
+This project contains an stl from thingiverse.
+multi-colour counter with auto-rollover: https://www.thingiverse.com/thing:4097275
+by Tritol is licensed under the Creative Commons - Public Domain Dedication license.
+
+geneva.scad and publicDomainGearV1.1.scad are unmodified from the version provided at the above thingiverse link.
